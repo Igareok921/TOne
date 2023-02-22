@@ -30,7 +30,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.ContactUs)}
       >
-        {/* HEADER */}
+        {/* 👌⬇️⬇️⬇️ HEADER ⬇️⬇️⬇️👌 */}
         <motion.div
           className="md:w-3/5"
           initial="hidden"
